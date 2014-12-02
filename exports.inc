@@ -1,0 +1,16 @@
+global main
+global ShowSearchOptions
+global Search_Opts_Btn_Key_Press
+global Search_Opts_Enter
+global Search_Opts_Leave
+global SetSearchServices
+global SetSFSOptions
+global SetSubmitServices
+global PreQuery
+global PreSubmit
+global TextEntryFocusOut
+global SwitchTab
+global LogError
+global ClearLog
+global SaveLog, SaveLogDialog
+global DeleteEvent
